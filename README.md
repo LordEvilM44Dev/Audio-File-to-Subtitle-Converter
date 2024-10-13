@@ -78,6 +78,10 @@ Replace your_script.py with the name of the Python script. This will generate a 
 
 ## Screenshots
 
+![Screenshot 1 Application ](https://github.com/LordEvilM44Dev/Audio-File-to-Subtitle-Converter/blob/main/Screenshots/screenshot_app.png)
+![Screenshot 2 Added Audio File ](https://github.com/LordEvilM44Dev/Audio-File-to-Subtitle-Converter/blob/main/Screenshots/screenshot_audio.png)
+![Screenshot 2 The Text File Format ](https://github.com/LordEvilM44Dev/Audio-File-to-Subtitle-Converter/blob/main/Screenshots/screenshot_txt.png)
+
 ## Contributing
 Contributions are welcome! Please follow the guidelines below:
 1. Fork the project.
