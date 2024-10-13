@@ -27,6 +27,7 @@ Download Option: Save the generated subtitles as a .txt file.
 
 - [Installation](#installation)
 - [Requirements](#requirements)
+- [Compatibility](#compatibility)
 - [How to Use](#how-to-use)
 - [Build as Executable](#build-as-executable)
 - [Screenshots](#screenshots)
@@ -35,6 +36,8 @@ Download Option: Save the generated subtitles as a .txt file.
 
 
  ## Installation
+
+ **Compatibility Notice:** This application works on **Windows** only.
 
 1. Clone or download this repository.
 
@@ -59,6 +62,10 @@ You can install the Python dependencies using pip:
 ```bash
 pip install SpeechRecognition pydub
 ```
+
+## Compatibility
+
+This application is designed to run on **Windows** only. Currently, there are no plans to support macOS or Linux due to the complexity involved in adapting the code for those platforms.
 
 ## How to Use
 
