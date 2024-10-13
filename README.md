@@ -7,6 +7,8 @@ Python application for converting audio files into subtitles text files, this to
 
 This script is compatible with the [Unity Subtitle System](https://github.com/LordEvilM44Dev/Unity-Subtitle-System.git) allowing seamless integration of subtitles into Unity projects.
 
+**Note:** This application is designed to work **only on Windows**. Making it compatible with macOS or Linux would require additional effort.
+
 The Audio File to Subtitle Converter script is a Python application designed to simplify the process of converting audio files into text-based subtitles. It uses speech recognition to transcribe spoken words from audio files and formats the output for easy readability.
 
 ## Features
