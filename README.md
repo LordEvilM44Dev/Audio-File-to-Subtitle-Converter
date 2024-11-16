@@ -45,6 +45,12 @@ Download Option: Save the generated subtitles as a .txt file.
 git clone https://github.com/LordEvilM44Dev/Unity-Subtitle-System.git
 ```
 
+
+in order to run the excutiable properly you will need to add the ffmpeg to your computers ```Path```. see next steps 
+
+1. Download ffmpeg for winodws here [FFMpeg]([https://ffmpeg.org/download.html](https://www.gyan.dev/ffmpeg/builds/))
+2. 
+
 ## Requirements
 
 To run this application, ensure you have the following dependencies installed:
