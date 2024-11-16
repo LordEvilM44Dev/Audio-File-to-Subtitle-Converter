@@ -26,6 +26,7 @@ Download Option: Save the generated subtitles as a .txt file.
 ## Table of Contents
 
 - [Installation](#installation)
+- [Important-Installation](#important-installation)
 - [Requirements](#requirements)
 - [Compatibility](#compatibility)
 - [How to Use](#how-to-use)
@@ -45,11 +46,25 @@ Download Option: Save the generated subtitles as a .txt file.
 git clone https://github.com/LordEvilM44Dev/Unity-Subtitle-System.git
 ```
 
+## 🚨IMPORTANT INSTALLATION🚨
 
-in order to run the excutiable properly you will need to add the ffmpeg to your computers ```Path```. see next steps 
+To run the executable properly, you need to add FFmpeg to your computer's system ```Path```. Follow these steps carefully:
 
-1. Download ffmpeg for winodws here [FFMpeg](https://www.gyan.dev/ffmpeg/builds/)
-2. 
+1. Download FFmpeg for Windows from the official source: [FFMpeg Builds](https://www.gyan.dev/ffmpeg/builds/).
+2. After downloading, unzip the file (if necessary) and rename the folder to ```ffmpeg```.
+3. Move the ```ffmpeg``` folder to your main storage drive, typically:
+```bash
+This PC > Loacal Disk (C:)
+```
+5. Open the Start menu, search for ```System Environment Variables```, and click to open it.
+6. Click the ```Environment Variables``` button at the bottom of the window.
+7. Under the ```User Variables``` section, select ```Path``` and click the ```Edit``` button.
+8. Click New and enter the path to the bin folder inside the FFmpeg directory. For example:
+```bash
+C:\ffmpeg\bin
+```
+9. Click OK to save your changes in each window.
+10. FFmpeg is now added to your system Path and ready to use.
 
 ## Requirements
 
