@@ -26,7 +26,7 @@ Download Option: Save the generated subtitles as a .txt file.
 ## Table of Contents
 
 - [Installation](#installation)
-- [Important-Installation](#important-installation)
+- [🚨Important-Installation🚨](#important-installation)
 - [Requirements](#requirements)
 - [Compatibility](#compatibility)
 - [How to Use](#how-to-use)
